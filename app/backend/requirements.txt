@@ -1,0 +1,7 @@
+flask
+flask-cors
+scikit-learn
+spacy
+numpy
+pandas
+pickle5
